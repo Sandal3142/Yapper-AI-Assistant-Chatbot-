@@ -1,8 +1,21 @@
-# Yapper-AI-Assistant-Chatbot-
-Objective: Developed an AI-powered chatbot named Yapper designed to assist users with
-daily queries and tasks through natural language interaction.
-* Technologies: Integrated OpenAI's API with Flask backend and used HTML/CSS for a
-seamless UI.
-* Database: Stored user interactions and history for personalized responses.
-* Key Features: Enabled smooth real-time conversations, reminders, and general information
-support.
+
+# Yapper — AI Chatbot 🤖
+
+Yapper is a full-stack AI chatbot built using React, Node.js, and OpenAI API.
+
+## Tech Stack
+- React + TypeScript
+- Node.js + Express
+- OpenAI API
+
+## Features
+- Real-time chat with AI
+- Clean UI
+- Modular backend
+
+## Setup
+1. Clone repo
+2. Add OpenAI key in backend/.env
+3. Run backend and frontend
+
+
